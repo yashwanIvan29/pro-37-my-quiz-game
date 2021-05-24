@@ -1,1 +1,1 @@
-# pro-37-my-quiz-game
+# my-quiz-game
